@@ -1,2 +1,2 @@
-# mta-resource-blur
+# Blur
 Blurring resource for MultiTheftAuto.
