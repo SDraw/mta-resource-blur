@@ -1,0 +1,9 @@
+<meta>
+    <info author="SDraw" version="1.0.0" name="Blur" type="script"/>
+    <oop>true</oop>
+    
+    <script src="scripts/blur.lua" type="client"/>
+    
+    <file src="images/cube.png" type="client"/>
+    <file src="shaders/blur.fx" type="client"/>
+</meta>
